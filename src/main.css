@@ -67,7 +67,7 @@ HEADER
 	position: relative;
 }
 
-.container header {
+.header {
 	bottom: 100px;
 	left: 400px;
 	position: absolute;
@@ -75,7 +75,7 @@ HEADER
 }
 
 
-.container header h1 {
+.header h1 {
 	font-size: 70px;
 }
 
